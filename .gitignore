@@ -1,0 +1,14 @@
+# Compiled class files
+*.class
+out/
+bin/
+
+# Temporary and editor files
+.vscode/
+.idea/
+*.iml
+.DS_Store
+
+# Java archives except sqlite JDBC driver
+*.jar
+!**/lib/sqlite-jdbc-*.jar

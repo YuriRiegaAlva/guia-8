@@ -1,0 +1,14 @@
+# javetas project manifest.
+# Learn more at: https://github.com/YuriRiegaAlva/javetas
+
+[project]
+name = "ejercicio2"
+main = "Main"
+
+[dependencies]
+# List dependencies here.
+# Format: alias = "groupId:artifactId:version"
+#
+# Examples:
+# gson = "com.google.code.gson:gson:2.10.1"
+# json = "org.json:json:20231013"
