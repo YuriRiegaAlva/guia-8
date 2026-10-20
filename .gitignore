@@ -12,3 +12,8 @@ bin/
 # Java archives except sqlite JDBC driver
 *.jar
 !**/lib/sqlite-jdbc-*.jar
+
+# Ignorar capturas y recursos PNG
+PNG/
+*.png
+
