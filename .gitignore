@@ -17,3 +17,7 @@ bin/
 PNG/
 *.png
 
+# Documentos y guías no distribuibles
+*.pdf
+
+
